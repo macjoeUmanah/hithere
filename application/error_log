@@ -1,0 +1,320 @@
+[08-Sep-2021 20:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[08-Sep-2021 20:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[08-Sep-2021 20:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[08-Sep-2021 20:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[08-Sep-2021 20:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[08-Sep-2021 20:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[08-Sep-2021 20:00:05 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[08-Sep-2021 20:00:05 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 00:45:17 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 00:45:17 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 00:45:17 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 00:45:17 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 00:45:17 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 00:45:17 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 00:45:17 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 00:45:17 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 01:00:03 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 01:00:03 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 01:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 01:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 01:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 01:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 01:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[09-Sep-2021 01:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[14-Sep-2021 08:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[14-Sep-2021 08:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[14-Sep-2021 08:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[14-Sep-2021 08:00:04 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[14-Sep-2021 08:00:05 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[14-Sep-2021 08:00:05 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[14-Sep-2021 08:00:05 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[14-Sep-2021 08:00:05 Pacific/Easter] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[23-Sep-2021 08:00:05 America/New_York] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[23-Sep-2021 08:00:05 America/New_York] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[23-Sep-2021 08:00:06 America/New_York] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[23-Sep-2021 08:00:06 America/New_York] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[23-Sep-2021 08:00:06 America/New_York] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[23-Sep-2021 08:00:06 America/New_York] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[23-Sep-2021 08:00:06 America/New_York] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
+[23-Sep-2021 08:00:06 America/New_York] PHP Fatal error:  Uncaught ErrorException: proc_open(): fork failed - Resource temporarily unavailable in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php:127
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'proc_open(): fo...', '/home3/zuleta29...', 127, Array)
+#1 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(127): proc_open('stty -a | grep ...', Array, NULL, NULL, NULL, Array)
+#2 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(70): Symfony\Component\Console\Terminal::getSttyColumns()
+#3 /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php(32): Symfony\Component\Console\Terminal::initDimensions()
+#4 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(748): Symfony\Component\Console\Terminal->getWidth()
+#5 /home3/zuleta29/public_html/application/vendor/symfony/console/Application.php(729): Symfony\Component\Console\Application->doRenderExcep in /home3/zuleta29/public_html/application/vendor/symfony/console/Terminal.php on line 127
